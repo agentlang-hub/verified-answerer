@@ -1,4 +1,4 @@
-Example app: verified-answerer
+# Example app: verified-answerer
 
 This app comes up with an answer to a general question, and then
 verifies the answer with a verifier agent. Finally, it provides the
